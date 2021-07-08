@@ -9,31 +9,8 @@
 !scripts/*/*/*
 !scripts/*/*/*/*
 !scripts/*/*/*/*/*
-!keyfiles/
-!keyfiles/*
-!keyfiles/*/*
-!keyfiles/*/*/*
-!keyfiles/
-!kstate_line_keyfile/
-!kstate_line_keyfile/*
-!kstate_line_keyfile/*/*
-!kstate_line_keyfile/*/*/*
-!kstate_line_keyfile/*/*/*/*
-!archive/
-!archive/*
-!archive/*/*
-!archive/*/*/*
-!archive/*/*/*/*
-!archive/*/*/*/*/*
-!*.Rmd
-!*.md
+!data
+!data/*
+!data/*/*
 
 
-
-# Ignore these
-**/*pdf
-**/*.DS_Store
-*/*Rhistory
-**/*slurm*
-**/log/**
-**/*html
