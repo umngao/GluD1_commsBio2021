@@ -1,0 +1,39 @@
+# Ignore everything 
+*
+
+#except these
+!.gitignore
+!scripts/
+!scripts/*
+!scripts/*/*
+!scripts/*/*/*
+!scripts/*/*/*/*
+!scripts/*/*/*/*/*
+!keyfiles/
+!keyfiles/*
+!keyfiles/*/*
+!keyfiles/*/*/*
+!keyfiles/
+!kstate_line_keyfile/
+!kstate_line_keyfile/*
+!kstate_line_keyfile/*/*
+!kstate_line_keyfile/*/*/*
+!kstate_line_keyfile/*/*/*/*
+!archive/
+!archive/*
+!archive/*/*
+!archive/*/*/*
+!archive/*/*/*/*
+!archive/*/*/*/*/*
+!*.Rmd
+!*.md
+
+
+
+# Ignore these
+**/*pdf
+**/*.DS_Store
+*/*Rhistory
+**/*slurm*
+**/log/**
+**/*html
